@@ -1,0 +1,44 @@
+{
+  "name": "nw_prjct",
+  "version": "0.0.1",
+  "description": "nodejs with koa framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilemon/nw_prjct.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa2",
+    "practice"
+  ],
+  "author": "guilemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilemon/nw_prjct/issues"
+  },
+  "homepage": "https://github.com/Guilemon/nw_prjct#readme",
+  "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-stage-0": "^6.5.0",
+    "co-monk": "^1.0.0",
+    "koa": "^2.0.0-alpha.4",
+    "koa-bodyparser": "^3.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-generic-session": "^1.11.3",
+    "koa-passport": "^2.2.2",
+    "koa-route": "^3.1.0",
+    "koa-static": "^3.0.0",
+    "koa-views": "^5.0.2",
+    "monk": "^3.1.1",
+    "passport-google-auth": "^1.0.1",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "swig": "^1.4.2"
+  }
+}
