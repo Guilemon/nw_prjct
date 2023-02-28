@@ -4,6 +4,7 @@
   "description": "nodejs with koa framework",
   "main": "app.js",
   "scripts": {
+    "dev": "node babel.app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
